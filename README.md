@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**JuliPolanco/JuliPolanco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩🏻‍💻 I'm a business manager turned into a Data Science student
 
-Here are some ideas to get you started:
+🌱 Currently working on my personal website and Dr. Yu's 100 days of Python Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Favs: , Python 🐍, SQL
+
+🗣️ English, Spanish
+
+✨ Other random interests: Videogames :video_game: , Healthcare Science 🧪, AWS ☁️
+
+📫 How to reach me: julianapolanco1991@gmail.com
+
