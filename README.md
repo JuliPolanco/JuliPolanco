@@ -4,7 +4,7 @@
 
 🌱 Currently working on my personal website and Dr. Yu's [100 Days of Code: The Complete Python Pro Bootcamp for 2023](https://www.udemy.com/course/100-days-of-code/)
 
-🔭 Favs: , Python 🐍, SQL
+🔭 Favs: Python 🐍, SQL
 
 🗣️ English, Spanish
 
